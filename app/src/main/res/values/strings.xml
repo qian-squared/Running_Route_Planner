@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Running Route Planner</string>
+    <string name="get_direction">FindRoutes</string>
+    <string name="distance">Distance in km</string>
+</resources>
