@@ -1,0 +1,4 @@
+#Wed Dec 04 01:53:05 EST 2019
+base.0=C\:\\Users\\cathy\\Desktop\\sprint3\\sprint3\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
