@@ -21,7 +21,7 @@ import java.util.List;
 public class DistanceFinder {
 
     private static final String DISTANCE_MATRIX_DIRECTION_URL = "https://maps.googleapis.com/maps/api/distancematrix/json?";
-    private static final String GOOGLE_DIRECTION_API_KEY = "AIzaSyBF_KBkfJKaUFw5VZo9FNBRktaiHN2HFQI";  // replace with your google direction api
+    private static final String GOOGLE_DIRECTION_API_KEY = "";  // replace with your google direction api
     private DistanceFinderListener listener;
     private String origin;
     // will be a list in the future
