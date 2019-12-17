@@ -9,7 +9,7 @@
   * Who wants to plan a route with a specific distance
   
 ## System Design
-![Sys](sys.png)
+![sys](sys.png)
 
 ## App Preview
 ![prev](prev.png)
