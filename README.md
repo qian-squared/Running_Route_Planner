@@ -9,11 +9,10 @@
   * Who wants to plan a route with a specific distance
   
 ## System Design
-![sys](sys.png)
+![sys](sys.PNG)
 
 ## App Preview
-![prev](prev.png)
-
+![prev](prev.PNG)
 
 ## Configuration
 * compileSdkVersion 28
