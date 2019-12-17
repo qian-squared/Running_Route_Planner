@@ -1,5 +1,26 @@
 # EC601-Rout-Planner
 
+## Product Definition
+* Product Mission
+  * We successfully built an Android app that can plan running routes with user-specified needs (distance) to improve running experience. The users can also save and delete the routes to their accounts for future access. 
+* Target User(s)
+  * Joggers and runners who is unfamiliar with the city 
+  * Who wants to explore new running routes 
+  * Who wants to plan a route with a specific distance
+  
+## System Design
+![Sys](sys.png)
+
+## App Preview
+![prev](prev.png)
+
+
+## Configuration
+* compileSdkVersion 28
+* minSdkVersion 16
+* targetSdkVersion 28
+* com.google.firebase:firebase-analytics:17.2.1
+* com.google.android.gms:play-services-drive:17.0.0
 
 
 
